@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+
+.godot/
+
+.import/
+
+.export/
+
+mono_crash.*
+
+*.tmp
+
+Thumbs.db
+
+.DS_Store
